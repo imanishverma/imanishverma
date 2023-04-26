@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating automation frameworks for api, web and mobile applications.
 - 🌱 I’m currently learning android development and refining my skills on Kotlin.
 - 💞️ I’m looking to collaborate on creating scalable solutions for automating entriprse systems.
-- 📫 Connect with me at https://twitter.com/imanishverma and https://www.linkedin.com/in/imanishverma/ 
+- 📫 Connect with me at [Twitter](https://twitter.com/imanishverma) and [LinkedIn](https://www.linkedin.com/in/imanishverma/)
 
 <!---
 imanishverma/imanishverma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
